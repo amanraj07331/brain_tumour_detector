@@ -47,7 +47,7 @@ This project demonstrates a deep learning approach to **brain tumor detection** 
 
 ## 🧪 Example Results
 
-> (Add screenshots of MRI input images and the classification output here)
+> ()
 
 ---
 
