@@ -9,7 +9,6 @@ This project demonstrates a deep learning approach to **brain tumor detection** 
 ## 📁 Project Structure
 
 - **`brain_tumour.ipynb`** – Main Jupyter Notebook with model loading and prediction workflow.
-- **TensorFlow/Keras** – Used for building and loading the model.
 - **Google Colab Drive** – Integration for loading datasets/models from Google Drive.
 
 ---
