@@ -47,9 +47,15 @@ This project demonstrates a deep learning approach to **brain tumor detection** 
 
 ## 🧪 Example Results
 
-> ()
+> ![Brain Tumor Detection Output](https://github.com/amanraj07331/brain_tumour_detector/blob/main/Screenshot%202025-06-30%20235248.png)
 
 ---
+## Folder Structure
+📁 brain-tumour-detection
+├── brain_tumour.ipynb
+├── output.png
+└── README.md
+
 
 ## 🧠 Model Architecture 
 
